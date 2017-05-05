@@ -1,4 +1,4 @@
 # hello-word
 Begin
 
-This is just a little start
+This is just a start
